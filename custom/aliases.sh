@@ -1,0 +1,5 @@
+alias gwip='git commit -a -m WIP'
+alias gff='git merge --ff-only'
+alias gpo='git push origin'
+alias gpf='git push fork'
+alias gcan='git commit -v -a --no-edit --amend'
